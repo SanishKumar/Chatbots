@@ -43,8 +43,10 @@ This project is a simple chatbot implemented in Python that communicates using J
 
 2. The chatbot will start listening for incoming JSON messages.
 
-###Customization
+### Customization
+
 Feel free to customize the chatbot.py file to add more functionality, responses, or integrate external APIs.
 
-###Contributing
+### Contributing
+
 If you'd like to contribute to this project, you are more than welcome to do so.
